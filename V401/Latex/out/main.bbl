@@ -92,6 +92,32 @@
       \verb https://www.ld-didactic.de/documents/de-DE/EXP/P/P6/P6273_d.pdf
       \endverb
     \endentry
+    \entry{Demtröder_2}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59654c899d48eff28a4d8063e886fb5f}{%
+           family={Demtröder},
+           familyi={D\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{59654c899d48eff28a4d8063e886fb5f}
+      \strng{fullhash}{59654c899d48eff28a4d8063e886fb5f}
+      \strng{bibnamehash}{59654c899d48eff28a4d8063e886fb5f}
+      \strng{authorbibnamehash}{59654c899d48eff28a4d8063e886fb5f}
+      \strng{authornamehash}{59654c899d48eff28a4d8063e886fb5f}
+      \strng{authorfullhash}{59654c899d48eff28a4d8063e886fb5f}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7}
+      \field{title}{Experimentalphysik 2}
+      \field{year}{2018}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-662-55790-7
+      \endverb
+    \endentry
     \entry{Dor56}{book}{}
       \name{author}{1}{}{%
         {{hash=9fb3572a1e615256694c77a3964b4659}{%
@@ -133,7 +159,7 @@
       \strng{authorbibnamehash}{59654c899d48eff28a4d8063e886fb5f}
       \strng{authornamehash}{59654c899d48eff28a4d8063e886fb5f}
       \strng{authorfullhash}{59654c899d48eff28a4d8063e886fb5f}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}

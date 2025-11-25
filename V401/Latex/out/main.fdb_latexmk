@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber out/main"] 1762179797.90507 "out/main.bcf" "out/main.bbl" "out/main" 1762180179.52121 0
-  "out/main.bcf" 1762180178.61517 108991 682934c8fe0554be7ea00f3d0f79031a "pdflatex"
-  "references.bib" 1762176050 2140 b467236dc21f1f83b3cf8f7600bb5d29 ""
+["biber out/main"] 1762180828.25363 "out/main.bcf" "out/main.bbl" "out/main" 1762180895.623 0
+  "out/main.bcf" 1762180894.70895 109059 3cdf1b44a7f920884644e720547a03e0 "pdflatex"
+  "references.bib" 1762180743.15878 2327 2ece0dd6d153fc6e0ac928c4241ecb15 ""
   (generated)
   "out/main.bbl"
   "out/main.blg"
   (rewritten before read)
-["pdflatex"] 1762180158.72602 "/home/norei/Programming/University/07_Praktikum_4/V401/Latex/main.tex" "out/main.pdf" "main" 1762180179.52317 0
+["pdflatex"] 1762180874.20513 "/home/norei/Programming/University/07_Praktikum_4/V401/Latex/main.tex" "out/main.pdf" "main" 1762180895.62494 0
   "/home/norei/Programming/University/07_Praktikum_4/V401/Latex/main.tex" 1762176050 694 41687e9cfeadad03879133be907a8007 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1640468671 3136 aac2e2476de8af6c827239df395814ee ""
@@ -223,7 +223,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1761510640.88313 4547809 72a019b3ea2e5a9ca986a536dc67eb1c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1761509037 7759947 6eba11b8030555b1ae5c355ee4e99ba3 ""
   "01_Einleitung.tex" 1762180157.96196 4316 a146e82afde13e3bac406657160af003 ""
-  "03_aufgabe_1.tex" 1762176050 34681 4e7406c9f94cca391cad410f3925d08a ""
+  "03_aufgabe_1.tex" 1762180806.77891 34637 fb9d1258960df223e87d6bc851a957d5 ""
   "04_aufgabe_2.tex" 1762176050 16947 ee2158588dbb705021b41dc722815be4 ""
   "10_Fazit.tex" 1762176050 891 44e87d906e5773447e863d3f2ed5da95 ""
   "11_Anhang.tex" 1762176050 9188 740e0a0318b94010b1a0ef9b38cac61b ""
@@ -270,11 +270,11 @@
   "figs/Zeeman_Übergänge.png" 1762176050 27614 d5423c2cb0ed6932e176d41db517cff3 ""
   "main.tex" 1762176050 694 41687e9cfeadad03879133be907a8007 ""
   "makros.sty" 1762176050 538 876c8012426761d3e28b976dfb065c15 ""
-  "out/main.aux" 1762180178.57717 23602 a5d28e312d4201c0186f00d8369ddef6 "pdflatex"
-  "out/main.bbl" 1762179802.14832 9979 3268a2844faa035797ff4b7959cad803 "biber out/main"
-  "out/main.out" 1762180178.59717 3961 4d5d632ea26839e154ef24c8bd81a105 "pdflatex"
-  "out/main.run.xml" 1762180178.622 2335 b6f5ad1f50a8297707721557260eab4b "pdflatex"
-  "out/main.toc" 1762180178.622 2130 d2fe74e76a4b127617eca48031c65f55 "pdflatex"
+  "out/main.aux" 1762180894.67095 23474 1799759ba5df0a422ceffe6e1a5cc3c3 "pdflatex"
+  "out/main.bbl" 1762180832.17806 10984 4ff05f1613f5bd2430330162eaace002 "biber out/main"
+  "out/main.out" 1762180894.69095 3961 4d5d632ea26839e154ef24c8bd81a105 "pdflatex"
+  "out/main.run.xml" 1762180894.71388 2335 b6f5ad1f50a8297707721557260eab4b "pdflatex"
+  "out/main.toc" 1762180894.71395 2130 d2fe74e76a4b127617eca48031c65f55 "pdflatex"
   "packages.sty" 1762176050 2209 87e4d7472c94500b2fb3194a6fdec828 ""
   (generated)
   "out/main.aux"

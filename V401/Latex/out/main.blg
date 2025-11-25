@@ -1,17 +1,17 @@
 [1] Config.pm:307> INFO - This is Biber 2.19
 [2] Config.pm:310> INFO - Logfile is 'out/main.blg'
-[378] biber:340> INFO - === Mo Nov  3, 2025, 15:23:21
-[451] Biber.pm:419> INFO - Reading 'out/main.bcf'
-[773] Biber.pm:979> INFO - Found 11 citekeys in bib section 0
-[828] Biber.pm:4419> INFO - Processing section 0
-[875] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[879] bibtex.pm:1713> INFO - LaTeX decoding ...
-[906] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[1193] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1193] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1193] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[1194] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[1238] bbl.pm:660> INFO - Writing 'out/main.bbl' with encoding 'UTF-8'
-[1250] bbl.pm:763> INFO - Output to out/main.bbl
-[1251] Biber.pm:131> WARN - I didn't find a database entry for 'Spektroskopie mit einem Fabry-Perot-Etalon' (section 0)
-[1251] Biber.pm:133> INFO - WARNINGS: 1
+[387] biber:340> INFO - === Mo Nov  3, 2025, 15:40:31
+[457] Biber.pm:419> INFO - Reading 'out/main.bcf'
+[769] Biber.pm:979> INFO - Found 12 citekeys in bib section 0
+[824] Biber.pm:4419> INFO - Processing section 0
+[868] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[872] bibtex.pm:1713> INFO - LaTeX decoding ...
+[905] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[1220] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1221] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1221] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[1221] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[1262] bbl.pm:660> INFO - Writing 'out/main.bbl' with encoding 'UTF-8'
+[1278] bbl.pm:763> INFO - Output to out/main.bbl
+[1279] Biber.pm:131> WARN - I didn't find a database entry for 'Spektroskopie mit einem Fabry-Perot-Etalon' (section 0)
+[1280] Biber.pm:133> INFO - WARNINGS: 1
