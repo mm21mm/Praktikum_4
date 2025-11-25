@@ -249,3 +249,80 @@ U_B / V             I / mV
 0.198               9870
 0.09                11300
 0.009               12400
+
+
+Versuch 402 --- 25.11.25 --- Versuchstag 2: 
+
+
+Justierung der Hg-Lampe
+
++ Hg-Lampe bei 39cm
++ Linse (f = 5cm) bei 49cm  ---> +2f
++ Spalt bei 59cm ---> +2f
++ Projektionsobjektiv (15cm) bei 74cm ---> +f' !!!! ---> 69cm viel besser
+(andere Bank)
++ Objektiv (f = 30cm) bei 10cm 
++ Okular bei 40cm ---> +f''
+
+Winkel omega_B: Position der 2. optischen Bank (clockwise)
+WInkel omgea_G: Drehung des Gitters (counter clockwise)
+
+omega_G = 0
+Autokollimation klappt nach abnehmen der Schutzkappe
+Konnte verifizieren, dass licht annäherend parallel auf Gitter fällt
+
+
+Bestimmung der Gitterkonstante mit Hg-Lampe
+
+wähle omega_b = 140 grad 
+Skala im Okular geht von links nach rechts bis 15mm
+
+Farbe       Intensität      Dicke       omega_G +- 1Grad
+gelb        intensiv        15          -27.5
+grün        intentiv        13          -24.5
+türkis      schwach         11          -19
+tief blau   sehr            10          -14
+rosa        schwach         9           -11.5
+
+violett     sehr            dünn        51
+violett     nur intensiv    dünn        51.5
+violett     schwach         dünn        52
+blau        schwach         dünn        54    
+blau        schwach         dünn        54 + 1Sk
+blau        schwach         dünn        54 + 2Sk
+grün        intensiv        dünn        59
+grün        mittel          dünn        59 + 3Sk / 59.5
+grün        schwach         dünn        59 + 4.5Sk / 60
+grün        sehr schwach    dünn        + 1.5Sk / 60.3
+hell grün   sehr            dünn        64.2
+gelb        schwach         mittel      67
+gelb        intensiv        0.5Sk       68
+gelb        intensiv        0.5Sk       68 + 1.4Sk
+orange      sehr schwach    0.5Sk       68.5
+orange      schwach         0.5Sk       + 2Sk / 69
+rot         schwach         0.5Sk       71
+rot         schwaxh         0.5Sk       +4SK / 17.5
+rot         mittel          0.5Sk       73
+
+
+Vermessung Winkel <----> Skalenteile: 
++Linie bei 0Sk == 53 grad
++Linie bei 10Sk == 54.5 grad 
++ 1Sk == 0.3 grad
+
+
+
+Okular-Messung der Balmer-Lampe
+
+omega_B = 140 grad
+
+
+                    omega_G     Dicke
+rote H alpha        78          0.8Sk 
+sehe schwache orange und zweite rote, grüne --> Molekül?
+cyan H beta         59.5        4SK (türkis)
+blaue H gamma   
+violette H delta    55          5Sk (schwach)
+violetter           53
+pink wie die Lampe  21.5        10Sk (stark)
+
