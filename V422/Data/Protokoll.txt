@@ -49,3 +49,73 @@ Spitze 4
 + Foto 200nm, PID = 1000,2000,0, U=1V, I = 1nA
 + Foto 32.8nm, PID = ..., U = 100mV, I = 1nA
 
+Versuch 422, Tag 2
+
+gleiche Spitze 1 wie am Versuchstag 1
+
+-----HOPG Probe 17------- genommen 
+mit TESA Film monolayer wurde abgenommen, in Probehalter platziert
+
+STILL_003 - Photo von HOPG in STM
+
+zum Anähern hat man I=1nA, U=1V
+
+
+erste Messung 500mV, 1nA, PID (1000, 2000, 0), time per line 0.2 s
+HOPG_200 - Photo von HOPG, 200nm 
+HOPG_10 - Photo von HOPG, 10nm , Parameter wie oben bei vorherigem Bild
+
+Alle vorherigen Messungen waren mit Overscan 0%
+
+Jetzt stellen wir Parameter fuer t\line um, time per line 0.8 s, Overscan 20% ab jetzt, Alle weiteren Messungen
+HOPG_10.1nm_03 mit time per line 0.8 s
+
+HOPG-04, constant height, Messung mit time per line 0.8 s, PID(0, 4, 0), 500mV, 1nA
+
+
+Neue Aufnahme von HOPG 10nm, HOPG_05, 500mV, 1nA, PID (1000, 2000, 0), time per line 0.2 s, 10nm
+
+HOPG 4nm, HOPG_06(tolles Bild), 500mV, 1nA, PID (1000, 2000, 0), time per line 0.2 s
+
+HOPG 4nm, HOPG_07(auch tolles Bild), 500mV, 1nA, PID (1000, 2000, 0), time per line 0.4 s
+
+HOPG 2nm, HOPG_08, 500mV, 1nA, PID (1000, 2000, 0), time per line 0.1 s
+
+HOPG 2nm, HOPG_09, 500mV, 1nA, PID (1000, 2000, 0), time per line 0.4 s
+
+HOPG 2nm, HOPG_010, 500mV, 1nA, PID (1000, 2000, 0), time per line 0.2 s
+
+HOPG 2nm, HOPG_011, 50,1mV, 1nA, PID (0, 4, 0), time per line 0.05 s
+
+HOPG 2nm, HOPG_012, 50,1mV, 1nA, PID (0, 4, 0), time per line 0.1 s
+
+
+
+
+STILL_001 Bild von TEM Plättchen
+STILL_032 Bild von HOPG Probe
+
+
+---MoS2 Probe----
+
+STILL_003 Bild mit STEM vom MoS2 Probe
+
+MoS2_01 200nm, 0,2 t\line, 1nA, 0,5V, PID (1000, 2000, 0)
+
+machen adjust slope x(-4,15 grad), y(6,64 grad)
+
+MoS2_02  200nm, 0,2 t\line, 1nA, 0,5V, PID (1000, 2000, 0)
+
+MoS2_03  100nm, 0,2 t\line, 1nA, 0,5V, PID (1000, 2000, 0)
+
+MoS2_04  100nm, 0,4 t\line, 1nA, 0,5V, PID (1000, 2000, 0)
+
+MoS2_05  10nm, 0,2 t\line, 1nA, 25mV, PID (0, 4, 0)
+
+(Neuer Ausschnitt) MoS2_06  50nm, 0,2 t\line, 1nA, 500mV, PID (1000, 2000, 0)
+
+MoS2_07  4nm, 0,026 t\line, 1nA, 500mV, PID (0, 4, 0)
+
+MoS2_08  50,78nm, 0,2 t\line, 3nA, 500mV, PID (1000, 2000, 0)
+
+MoS2_09  3,3nm, 0,026 t\line, 3nA, 500mV, PID (0, 4, 0)
