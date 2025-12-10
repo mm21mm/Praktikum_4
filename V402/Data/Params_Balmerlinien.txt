@@ -1,0 +1,8 @@
+\begin{tabular}{SSSSSSS} \toprule
+ 	{$\omega_G\up{oku}$ / \unit{\degree}} & {$\omega_G\up{oku2}$ / \unit{\degree}} & {$\omega_G\up{CCD}$ / \unit{\degree}} & {$\lambda\up{oku}$ / \unit{nm}} & {$\lambda\up{oku2}$ / \unit{nm}} & {$\lambda\up{CCD}$ / \unit{nm}} & {$\lambda\sub{theo}$ / \unit{nm}} \\ \midrule
+	78.0 +- 1.0 & 77.5 +- 1.0 & 73.5 +- 1.0 & 674.9 +- 856.1 & 671.2 +- 846.9 & 639.7 +- 770.6 & 656.3 +- 0.0 \\
+	59.5 +- 1.0 & 63.0 +- 1.0 & 63.5 +- 1.0 & 506.2 +- 486.9 & 542.8 +- 558.0 & 547.8 +- 568.2 & 486.1 +- 0.0 \\
+	55.0 +- 1.0 & 59.3 +- 1.0 & nan +- 1.0 & 456.5 +- 398.0 & 503.6 +- 482.0 & nan +- nan & 434.0 +- 0.0 \\
+	53.0 +- 1.0 & 59.0 +- 1.0 & nan +- 1.0 & 433.4 +- 359.9 & 500.8 +- 476.8 & nan +- nan & 410.2 +- 0.0 \\
+	21.5 +- 1.0 & nan +- 1.0 & 24.0 +- 1.0 & 20.8 +- 12.7 & nan +- nan & 55.5 +- 17.2 & nan +- 0.0 \\ \bottomrule
+\end{tabular}

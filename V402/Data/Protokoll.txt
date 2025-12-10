@@ -284,31 +284,31 @@ türkis      schwach         11          -19
 tief blau   sehr            10          -14
 rosa        schwach         9           -11.5
 
-violett     sehr            dünn        51
-violett     nur intensiv    dünn        51.5
-violett     schwach         dünn        52
-blau        schwach         dünn        54    
-blau        schwach         dünn        54 + 1Sk
-blau        schwach         dünn        54 + 2Sk
-grün        intensiv        dünn        59
+violett     sehr            dünn        51		----> 404.656 nm (I = 1800)
+violett     nur intensiv    dünn        51.5		----> 407.783 nm (I = 150)
+violett     schwach         dünn        52		----> 410.805 nm (I = 40)
+blau        schwach         dünn        54    		----> 433.922 nm (I = 250)
+blau        schwach         dünn        54 + 1Sk	----> 434.749 nm (I = 400)
+blau        schwach         dünn        54 + 2Sk	----> 435.833 nm (I = 4000) // war schwach intensiv
+grün        intensiv        dünn        59		----> 546.074 nm (I = 1100)
 grün        mittel          dünn        59 + 3Sk / 59.5
 grün        schwach         dünn        59 + 4.5Sk / 60
 grün        sehr schwach    dünn        + 1.5Sk / 60.3
 hell grün   sehr            dünn        64.2
 gelb        schwach         mittel      67
-gelb        intensiv        0.5Sk       68
-gelb        intensiv        0.5Sk       68 + 1.4Sk
+gelb        intensiv        0.5Sk       68		----> 576.960 nm (I = 240)
+gelb        intensiv        0.5Sk       68 + 1.4Sk	----> 579.066 nm (I = 280)
 orange      sehr schwach    0.5Sk       68.5
 orange      schwach         0.5Sk       + 2Sk / 69
-rot         schwach         0.5Sk       71
-rot         schwaxh         0.5Sk       +4SK / 17.5
-rot         mittel          0.5Sk       73
+rot         schwach         0.5Sk       71		----> 623.440 nm (I = 30)
+rot         schwaxh         0.5Sk       +4SK / 71.5	----> 671.643 nm (I = 160)
+rot         mittel          0.5Sk       73		----> 690.752 nm (I = 250)
 
 
 Vermessung Winkel <----> Skalenteile: 
 +Linie bei 0Sk == 53 grad
 +Linie bei 10Sk == 54.5 grad 
-+ 1Sk == 0.3 grad
++ 1Sk == 0.15 grad
 
 
 
@@ -326,3 +326,18 @@ violette H delta    55          5Sk (schwach)
 violetter           53
 pink wie die Lampe  21.5        10Sk (stark)
 
+
+
+nach einigen zeugs... hier die besseren / richtigen Werte
+
+omega_B = 140 grad
+
+5Sk == Mittelpunkt der Skala
+
+Farbe:      Pos Linie 1:    Pos Linie 2:    omega_G 
+rot         5Sk             +0.15Sk         77.5
+türkis                      +0.05Sk         63 
+
+violett     1.7Sk weiter links (als 2.)           59.3 oder so
+violett                                     59    (stärker, rechts)
+Aufspaltungen nicht sichtbar
