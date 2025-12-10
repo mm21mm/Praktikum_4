@@ -1,0 +1,51 @@
+
+Laufend angefertigtes Versuchsprotokoll von Mykhailo Minialo und Noah Reinhardt
+
+Versuchstag 1: 08.12.25 um 15:00 Uhr
+
+
+Vorbereitung:
+
+TEM-Netzchen: "400 x 100 mesh" in "div/inch"
+Goldkugel auf Si (3): runde Probe
+Gold auf Saphir (4): eckige Probe           ----> wollen wir nutzen
+HOPG: Probe (17)                            ----> wollen wir nutzen
+HOPG: Probe (7)                             ----> sehr kaputt
+Part Nr. 9008 MoS2: weitere Probe           ----> wollen wir nutzen
+
++ Probenhalter wurde von Tutor geputzt
+
+
+
+Fotos von Proben auf Platziertisch:
+
+weit heraus gezoomt:
++ TEM 
+----> Still004
++ Goldprobe (4)
+----> Still005
++ HOPG (17)
+----> Still006
++ Goldprobe (3)
+----> Still007
++ MoS2 
+----> Still008
+
+
++ Übung Annäherung echtes STM
+----> Still009
+
++ Foto von Spitze 1 im Übungs-STM
+----> Still001
+
+
+Baue Spitze 1 in echtes STM ein und versuche Aufnahme von Gold auf Saphir zu machen
++ potentiell reingefahren
++ Kamera laggt etwas
+Spitze 2 verloren gegangen
+Spitze 3 zu kurz
++ Fahrwerk kommt nicht weit genug für Approach
+Spitze 4
++ Foto 200nm, PID = 1000,2000,0, U=1V, I = 1nA
++ Foto 32.8nm, PID = ..., U = 100mV, I = 1nA
+
